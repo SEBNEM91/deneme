@@ -1,0 +1,25 @@
+print "deneme icine deneme"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
